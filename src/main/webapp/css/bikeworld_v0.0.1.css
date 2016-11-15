@@ -1,0 +1,45 @@
+/*!
+ * Bootstrap v3.3.7 (http://getbootstrap.com)
+ * Copyright 2011-2016 Twitter, Inc.
+ * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+ */
+/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
+html {height:100%;}
+body {
+  width:100%;
+  margin:auto;
+  height:100%;
+  padding:0;
+}
+
+#header_title {height:200px;}
+.menu_div {text-align:center; height:40px; background-color:lightgray;}
+.menu_title {color:black;}
+
+.footer {
+	background:#ffab62;
+	width:100%;
+	height:100px;
+	position:absolute;
+	bottom:-30;
+	left:0;
+}}
+
+.prev_content {border:2px solid black; width:45%; margin-left:auto; height: 100px; float:left;}
+.link_p span {cursor:pointer;}
+
+.layout_col1 { width:30%; height:auto; float:left; }
+.layout_col1_1 { width:90%; height:200px; margin:auto; margin-top:20px;}
+.layout_col1_2 { width:90%; height:300px; margin:auto; margin-top:20px;}
+.layout_col2 { width:40%; height:600px; float:left;}
+.layout_col2_1 { width:90%; height:350px; margin:auto; margin-top:20px;}
+.layout_col2_2 { width:90%; height:400px; margin:auto; margin-top:20px;}
+.layout_col3 { width:30%; height:600px; float:left; }
+.layout_col3_1 { width:90%; height:350px; margin:auto; margin-top:20px;}
+.layout_col3_2 { width:90%; height:400px; margin:auto; margin-top:20px;}
+
+.container_layout {height:100%; min-height: 100%; position: relative;}
+.content_box {width:80%; margin: 0 auto;}
+.content_box div div {border: 1px solid black;}
+
+.join_div {width:60%;}
